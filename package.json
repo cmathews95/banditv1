@@ -1,0 +1,11 @@
+{
+  "name": "bandit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "christiemathews",
+  "license": "ISC"
+}

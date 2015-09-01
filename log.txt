@@ -1,0 +1,6 @@
+
+chris,rock
+jeff,jazz
+sam,alt
+mouserat,alt
+duke ellington,jazz

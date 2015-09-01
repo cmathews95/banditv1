@@ -1,0 +1,24 @@
+.logo{
+    background-image: url("images/bandit.png");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    margin: 0 auto 0 auto;
+    width:200px;
+    height:200px;
+}
+
+body { margin: 0; background: white; }
+
+.textbox {
+    width: 100%;
+    text-align: center;
+    font-size: 25pt;
+}
+
+.slogan {
+    width: 20%;
+    margin: 0 auto 0 auto;
+    text-align:center;
+    font-size: 18pt;
+    font-family: 'Helvetica', italic;
+}
